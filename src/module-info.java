@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author SanatGudasi
+ *
+ */
+module music {
+}
